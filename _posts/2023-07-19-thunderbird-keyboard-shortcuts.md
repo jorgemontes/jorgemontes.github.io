@@ -1,10 +1,12 @@
 ---
 title: "Usando Shortcuts en Thunderbird"
-published: false
+published: true
+categories: thunderbird teclado
+image: /assets/images/posts/Thunderbird_Logo,_2018.svg.png
 ---
 
 # Usando Shortcuts en Thunderbird
-Título: Dominando Thunderbird con el Teclado: Un Recorrido Completo
+![Thunderbird]({{ page.image }})
 
 Introducción:
 ================
