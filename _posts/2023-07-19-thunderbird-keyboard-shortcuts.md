@@ -1,17 +1,17 @@
 ---
 title: "Usando Shortcuts en Thunderbird"
-published: true
+published: false
 categories: thunderbird teclado
 image: /assets/images/posts/Thunderbird_Logo,_2018.svg.png
 ---
 
-# Usando Shortcuts en Thunderbird
+# Shortcuts 脷tiles en Thunderbird
 ![Thunderbird]({{ page.image }})
 
 Introducci贸n:
 ================
 
-En este post, aprenderemos a dominar el cliente de correo electr贸nico Thunderbird utilizando 煤nicamente el teclado. Si bien Thunderbird es ampliamente conocido por su funcionalidad y versatilidad, muchos usuarios desconocen las ventajas de utilizar atajos de teclado para mejorar la eficiencia y la productividad en la gesti贸n de correos electr贸nicos. En esta gu铆a, exploraremos una variedad de atajos y t茅cnicas que te permitir谩n navegar, organizar y responder correos de manera r谩pida y sin la necesidad de recurrir al rat贸n.
+Thunderbird es el cliente de correo m胹 completo y vers胻il que se puede encontrar. Adem胹 de sus obvias ventajas por ser software libre. La idea de la productividad se encuentra de la mano de la velocidad con la que manejamos esta herramienta. En esta gu铆a, exploraremos una variedad de atajos y t茅cnicas que te permitir谩n navegar, organizar y responder correos de manera r谩pida y sin la necesidad de recurrir al rat贸n.
 
 ## Contenido:
 1. Atajos b谩sicos para la navegaci贸n:
