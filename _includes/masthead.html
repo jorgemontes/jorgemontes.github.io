@@ -40,7 +40,7 @@
     </div>
     <div class="{{ metadata_styles }}">
         {% octicon calendar height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:email %}
-        <a href="https://cal.com/jorgemontes/" {% if site.style == 'dark' %}class="text-white"{% endif %}>Book an Appointment</a>
+        <a data-cal-link="hariom" href="https://cal.com/jorgemontes/" {% if site.style == 'dark' %}class="text-white"{% endif %}>Book an Appointment</a>
     </div>
     {% if site.social_media %}
       <div class="d-flex flex-wrap flex-items-start {% if site.layout == 'stacked' %}flex-justify-center mt-1 mt-md-3{% endif %}">
