@@ -18,9 +18,6 @@ defaults:
 
 projects:
   sort_by: pushed
-  # sort_by options:
-  #   - pushed
-  #   - stars
   limit: 9
   exclude:
     archived: false
