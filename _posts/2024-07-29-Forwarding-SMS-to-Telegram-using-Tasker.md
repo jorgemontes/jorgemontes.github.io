@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Forwarding SMS to Telegram using Tasker
-published: false
+published: true
 updated: 2024-10-06 22:37:31Z
 created: 2024-07-30 01:21:34Z
 date:  2024-07-29
