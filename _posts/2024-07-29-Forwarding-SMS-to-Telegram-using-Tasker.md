@@ -24,7 +24,8 @@ My bank doesn’t provide another method to receive these notifications, so SMS 
 ## Tasker Project
 First, create a new Tasker project to store variables, profiles, and tasks. I named mine `Finance`. Then, go to the project properties, where you can set these properties by holding the name of the project:
 
-![afaaeab1b3929f976adfc50e449afb13.png](/assets/images/posts/afaaeab1b3929f976adfc50e449afb13.png).
+![afaaeab1b3929f976adfc50e449afb13.png](/assets/images/posts/afaaeab1b3929f976adfc50e449afb13.png)
+
 Add two project variables: `telegram_bot_token` and `chat_id`. These will hold your bot token and the chat ID of the specific conversation where you want to receive updates.
 
 ![0483879a09c3a6a077a43ef5948ddb5f.png](/assets/images/posts/0483879a09c3a6a077a43ef5948ddb5f.png)
