@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Forwarding SMS to Telegram using Tasker
+image: /assets/images/posts/tasker-logo-high-res-clear-1696114371.png
 published: true
 updated: 2024-10-06 22:37:31Z
 created: 2024-07-30 01:21:34Z
@@ -14,7 +15,6 @@ tags:
   - Tasker
   - SMS
 ---
-# Forwarding SMS to Telegram using Tasker
 
 Telegram released a feature that allows you to tag *Saved Messages* with emojis, making it easier to filter them later. This feature has been very helpful for me in tracking expenses and even managing my dog's health. I started saving every expense in Telegram and would occasionally transfer them to my main accounting app. This system worked fine for a while, but I realized that most of my saved expenses were from my main Savings Account or Credit Card linked to the same bank. That’s when I thought I could save time by automating the process.
 
