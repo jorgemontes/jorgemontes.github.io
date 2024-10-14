@@ -33,11 +33,24 @@ Add two project variables: `telegram_bot_token` and `chat_id`. These will hold y
 ## Create a Task
 Create a new `Task` and add an action of type `HTTP Request`. Then, fill in the parameters for the action as follows:
 
-| Param | Value |
-|-------|-------|
-| Method| POST  |
-| URL | https://api.telegram.org/bot%25telegram_bot_token/sendMessage |
-| Body | `{"chat_id" : "%chat_id", "text": "%SMSRB"}` |
+<table>
+  <tr>
+    <th>Param</th>
+    <th>Value</th>
+  </tr>
+  <tr>
+    <td>Method</td>
+    <td>POST</td>
+  </tr>
+  <tr>
+    <td>URL</td>
+    <td>https://api.telegram.org/bot%25telegram_bot_token/sendMessage</td>
+  </tr>
+  <tr>
+    <td>Body</td>
+    <td>`{"chat_id" : "%chat_id", "text": "%SMSRB"}`</td>
+  </tr>
+</table>
 
 Here, you can see the variables being updated at the time of sending the Telegram message. The varible `%SMSRB` is the body of an SMS Text Message.
 
